@@ -2,6 +2,14 @@
 
 An Excel-based Sales Analysis Dashboard created to track and visualize the monthly sales performance of **Vrinda Store**. This project showcases data-driven insights using pivot tables, slicers, charts, and dynamic dashboards — ideal for understanding business trends and making informed decisions.
 
+
+---
+
+## 📥 View Project
+
+👉 [Click here to view the Excel Dashboard online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Faarav0248%2FVrinda-store-excel-dashboard-project%2Frefs%2Fheads%2Fmain%2FVrinda%2520Store%2520Data%2520Analysis.xlsx&wdOrigin=BROWSELINK)
+
+
 ---
 
 ## 📝 Project Overview
